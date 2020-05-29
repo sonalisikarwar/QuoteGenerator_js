@@ -1,0 +1,32 @@
+div{
+   
+    color: white;
+  font-size: 50px;
+    text-align:center;
+    background-color: white;
+	
+}
+
+center{
+    position: fixed;
+    bottom: 250px;
+    right: 650px; 
+}
+h1{
+   margin-left: 530px;
+   color: white;
+   font-size: 20px;
+}
+div.poki {
+    border-width: 4px 4px 4px 4px;
+    border-style: solid;
+    border-radius: 30px;
+height: 240px;
+border-color: purple;
+box-shadow: 1px 1px  3px  3px black;
+background-color: orangered;
+
+  }
+  body{
+      background-image: linear-gradient(blue , blue);
+  }
